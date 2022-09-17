@@ -1,0 +1,6 @@
+URP v0.1:
+- Recreated Project in URP
+- Setup organisation folders inside and outside project(blender projects)
+- Setup ground and cube editor
+- Setup basic test scene
+- Added cinemachine package
