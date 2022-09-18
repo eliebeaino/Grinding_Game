@@ -4,3 +4,10 @@ URP v0.1:
 - Setup ground and cube editor
 - Setup basic test scene
 - Added cinemachine package
+
+Version 0.1.1:
+- Changed and added some materials and other color palettes for testing
+- Added some assets to project
+- Added new input system package
+- Added basic player controller (movement only)
+- Added mining controls and mineable configs (WIP)
