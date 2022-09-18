@@ -21,7 +21,7 @@ namespace GrindingGame.Mining
 
         void CheckForMineables()
         {
-            RaycastHit[] hits = Physics.SphereCastAll(transform.position, miningRadius, Vector3.forward);       
+            RaycastHit[] hits = Physics.SphereCastAll(transform.position, miningRadius,Vector3.up);       
             foreach (RaycastHit hit in hits)
             {
                 if (hit.collider.GetComponent<Mineable>())

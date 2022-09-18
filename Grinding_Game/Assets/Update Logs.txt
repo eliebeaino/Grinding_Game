@@ -11,3 +11,10 @@ Version 0.1.1:
 - Added new input system package
 - Added basic player controller (movement only)
 - Added mining controls and mineable configs (WIP)
+
+Version 0.1.1a:
+- Added floating HP bars for mineables and events system to catch the changes
+- Imported Sliced image asset to use on the floating HP Bars
+- Remade the prefab basic trees to take from the first prefab variant (in the future adjust the main one to add main features)
+- Adjusted the radius png file size to match the correct radius ingame
+- Fixed bug with radius calculations to vector.up in spherecasting

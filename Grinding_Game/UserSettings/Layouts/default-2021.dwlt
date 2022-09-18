@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 3440
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 3889
+  controlID: 53
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Elie
+  m_LastLoadedLayoutName: 
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 3877
+  controlID: 169
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 3878
+  controlID: 170
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,8 +344,8 @@ MonoBehaviour:
     y: 0
     width: 799
     height: 1307
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -479,9 +479,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 206c0000
-      m_LastClickedID: 27680
-      m_ExpandedIDs: 1083fcffb4a1fefff6e3feffcabeffffd2beffff24ddfffff2e0fffff6e0ffff12f8ffff10fbffff24fbffff4cfbffff183d0000323d000074580000ec6b00002c6c0000
+      m_SelectedIDs: 166c0000
+      m_LastClickedID: 27670
+      m_ExpandedIDs: c0d7fbff0efbffffe86b00000c6c0000246c0000386c0000606c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -731,9 +731,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 50.537792, y: -8.888222, z: 6.6613197}
+    m_Target: {x: 3.2019234, y: 4.520267, z: 5.3148746}
     speed: 2
-    m_Value: {x: 50.537792, y: -8.888222, z: 6.6613197}
+    m_Value: {x: 3.2019234, y: 4.520267, z: 5.3148746}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -780,13 +780,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.07378464, y: 0.6694537, z: -0.067099355, w: 0.7361246}
+    m_Target: {x: 0.28742856, y: 0.5935353, z: -0.23940717, w: 0.7125893}
     speed: 2
-    m_Value: {x: 0.07378486, y: 0.66945565, z: -0.06709955, w: 0.7361267}
+    m_Value: {x: 0.28742874, y: 0.5935357, z: -0.23940733, w: 0.7125898}
   m_Size:
-    m_Target: 27.219353
+    m_Target: 2.3584952
     speed: 2
-    m_Value: 27.219353
+    m_Value: 2.3584952
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -853,22 +853,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials/Palettes/Terrain Layers
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 89
   m_LastFolders:
-  - Assets/Materials/Palettes/Terrain Layers
+  - Assets/Prefabs
   m_LastFoldersGridSize: 89
   m_LastProjectPath: C:\Unity Projects\Grinding_Game\Grinding_Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70780000
-    m_LastClickedID: 30832
-    m_ExpandedIDs: 00000000a66c0000a86c0000aa6c00003e6e0000466e000000ca9a3b
+    scrollPos: {x: 0, y: 6}
+    m_SelectedIDs: a66e0000
+    m_LastClickedID: 28326
+    m_ExpandedIDs: 00000000046d0000066d0000086d00000a6d00000c6d00000e6d0000106d0000f078000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -896,7 +896,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a66c0000a86c0000aa6c000000ca9a3b
+    m_ExpandedIDs: 00000000046d0000066d0000086d00000a6d00000c6d00000e6d0000106d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -924,7 +924,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 
+    m_ExpandedInstanceIDs: fa6f0000ca6c000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
